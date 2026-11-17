@@ -28,6 +28,9 @@ Route::get('/', function () {
     return redirect()->route('login');
 });
 
+Route::view('/privacy-policy', 'privacy-policy')
+    ->name('privacy-policy');
+
 Route::get('/auth/google', [GoogleAuthController::class, 'redirect'])
     ->name('auth.google');
 

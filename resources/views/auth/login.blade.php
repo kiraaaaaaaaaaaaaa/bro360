@@ -461,6 +461,7 @@
             <div class="security-note">
                 <p>Authorized personnel only.</p>
                 <p>Protected access to BRO360 internal systems.</p>
+                <p><a href="/privacy-policy">Privacy Policy</a></p>
             </div>
 
         </div>

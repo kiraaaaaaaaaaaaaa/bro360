@@ -228,7 +228,7 @@
     <div class="sidebar-footer">
         <strong>BRO360</strong> Internal Management System
         <br>
-        Version 1.0.0
+        <a href="/privacy-policy">Privacy Policy</a>
     </div>
 
 </aside>
